@@ -1,5 +1,5 @@
 token = 'Ixim274'
 whatsapp_token = ''
 whatsapp_url = 'https://github.com/Ixim274/LLM_desarrollo'
-idTelefono = '596615466859113'
+idTelefono = ''
 openaiKey = ''
